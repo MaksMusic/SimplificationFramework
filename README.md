@@ -1,0 +1,1 @@
+собрать jar  -> mvn package
